@@ -9,7 +9,7 @@ Javascript code that you can use to correct common abbreviations when messaging.
 -------------------------------------------------------
 
 **EXAMPLE ENGLISH SPELL LIST:**
-```
+```js
 let spell_list = [
 ["helo", "hello"],
 ["bye", "good bye"],
