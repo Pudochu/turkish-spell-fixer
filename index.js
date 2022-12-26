@@ -42,6 +42,8 @@ let spell_list = [
 ["sçs", "seni çok seviyorum"],
 ["ajkm", "aşkım"],
 ["aşkm", "aşkım"],
+["askm", "aşkım"],
+["askim", "aşkım"],
 ["cnm", "canım"],
 ["tnşlm", "tanışalım"],
 ["abv", "allah belanı versin"],
