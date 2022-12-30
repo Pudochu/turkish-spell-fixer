@@ -9,17 +9,26 @@ let spell_list = [
 ["wht", "what"]
 ];
 */
-
 let spell_list = [
 ["slm", "selam"],
 ["slmm", "selam"],
 ["mrb", "merhaba"],
 ["mrbb", "merhaba"],
+["tsk", "teşekkürler"],
+["tşk", "teşekkürler"],
+["tskr", "teşekkürler"],
+["tskrlr", "teşekkürler"],
+["tşkr", "teşekkürler"],
+["tşkrlr", "teşekkürler"],
 ["nbr", "naber"],
 ["nbrr", "naber"],
 ["nslsn", "nasılsın"],
+["şka", "şaka"],
+["ska", "şaka"],
+["saka", "şaka"],
 ["naslsnn", "nasılsın"],
 ["nslsnn", "nasılsın"],
+["nasilsin", "nasılsın"],
 ["nrd", "neredesin"],
 ["nzmn", "ne zaman"],
 ["tmmm", "tamam"],
@@ -31,6 +40,8 @@ let spell_list = [
 ["tbr", "tebrikler"],
 ["kib", "kendine iyi bak"],
 ["grşz", "görüşürüz"],
+["eyw", "eyvallah"],
+["eyv", "eyvallah"],
 ["hg", "hoşgeldin"],
 ["inş", "inşallah"],
 ["ınş", "inşallah"],
@@ -43,7 +54,12 @@ let spell_list = [
 ["ajkm", "aşkım"],
 ["aşkm", "aşkım"],
 ["askm", "aşkım"],
+["ozmn", "o zaman"],
+["ozm", "o zaman"],
 ["askim", "aşkım"],
+["öğh", "kusacağım"],
+["ögh", "kusacağım"],
+["ögh", "kusacağım"],
 ["cnm", "canım"],
 ["tnşlm", "tanışalım"],
 ["abv", "allah belanı versin"],
@@ -53,6 +69,9 @@ let spell_list = [
 ["dm", "özel mesaj"],
 ["by", "güle güle"],
 ["bb", "güle güle"],
+["napcam", "ne yapacağım"],
+["nepcam", "ne yapacağım"],
+["napam", "ne yapayım"],
 ["knk", "kanka"],
 ["ayn", "aynen"],
 ["aynn", "aynen"],
@@ -66,7 +85,7 @@ let spell_list = [
 ["napıyon", "ne yapıyorsun"],
 ["napion", "ne yapıyorsun"],
 ["napiyon", "ne yapıyorsun"],
-["bosvr", "boşver",]
+["bosvr", "boşver"]
 ]
 
 let metin = "merhaba napıyon, slm naslsnn.";
